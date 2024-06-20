@@ -2,6 +2,8 @@
 
 ### only for educational purposes
 
+free followers instagram script (use as sample to pentest)
+
 outlines the steps to set up an Android device for pentesting using various tools such as Frida, Objection, and Burp Suite.
 
 ## Prerequisites
